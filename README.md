@@ -7,3 +7,4 @@ If medicine goes above 7, your Tomo overdoses and dies, which is also a lose sta
 These stats are controlled by a randomizer that uses logic to update these stats negatively every time there is input. I've been tinkering back and forth on how to balance these 
 stats, but  with no actual feedback other than my own, I wanted to upload this here to see what others make of it. Everything is sort of self-explanatory.
 
+To play the game, you must compile then run the program in a terminal.
